@@ -265,6 +265,7 @@ DB_PASSWORD=sv*HK/[{AKE})2L}
 * Login at `example.com/login` using your `Master` account credentials
 * Create a new `school`
 * Create a new `audit` for the newly created school
+* Admin also can take place on audit. Admin is audit and audit is admin.
 
 ## Manage a school
 
@@ -282,7 +283,7 @@ DB_PASSWORD=sv*HK/[{AKE})2L}
 * Add Courses
 * Then teacher can take attendance, give marks
 
-## Manage Exam (In exam manage page) by Admin
+## Manage Exam (In exam manage page) by Audit
 
 1. Check Notice published checkbox for an Exam after uploading Exam Notice.
 2. Check Result published checkbox for an Exam after all teachers updated their courses' marks.
@@ -336,25 +337,3 @@ You can do similar for other cache lines.
 
 ## Here are some screenshots:
 
-Auto generated fake data were used.
-
-![Screenshot_2019-04-11 - Ms Duane Welch(2)](https://user-images.githubusercontent.com/9896315/56895635-841dad00-6aab-11e9-9400-ec79907b0a28.png)
-![Screenshot_2019-05-11 Stripe Payment - Elvis Leffler](https://user-images.githubusercontent.com/9896315/57566209-b2748400-73eb-11e9-94c0-411a8d55e732.png)
-![Screenshot_2019-04-29 All Examinations - Santino Bergstrom V](https://user-images.githubusercontent.com/9896315/56895608-6ea88300-6aab-11e9-9854-07f553ecb9b8.png)
-![Screenshot_2019-03-21 Account Sectors - Britney Luettgen](https://user-images.githubusercontent.com/9896315/54765196-45cadd80-4c23-11e9-81d2-c761796678c8.png)
-![Screenshot_2019-03-12 Add New Book - Arvid Marquardt](https://user-images.githubusercontent.com/9896315/54187727-68991b80-44d8-11e9-972b-370a7b4a89b1.png)
-![Screenshot_2019-03-12 Add Routine - Arvid Marquardt](https://user-images.githubusercontent.com/9896315/54187728-68991b80-44d8-11e9-9655-62b83fe9e4dc.png)
-![Screenshot_2019-03-12 Alba Huel - Arvid Marquardt](https://user-images.githubusercontent.com/9896315/54187729-6931b200-44d8-11e9-936e-df49e1ca91e6.png)
-![Screenshot_2019-03-12 All Classes and Sections - Arvid Marquardt](https://user-images.githubusercontent.com/9896315/54187730-6931b200-44d8-11e9-9b8a-f4fd1657ef7d.png)
-![Screenshot_2019-03-12 All Issued Book - Arvid Marquardt](https://user-images.githubusercontent.com/9896315/54187731-69ca4880-44d8-11e9-98ec-b345a3de3691.png)
-![Screenshot_2019-03-12 Attendance - Arvid Marquardt(1)](https://user-images.githubusercontent.com/9896315/54187732-69ca4880-44d8-11e9-904b-8b3a3c4cff64.png)
-![Screenshot_2019-03-12 Attendance - Arvid Marquardt(2)](https://user-images.githubusercontent.com/9896315/54187733-6a62df00-44d8-11e9-8c25-4598df4d9346.png)
-![Screenshot_2019-03-12 Attendance - Arvid Marquardt](https://user-images.githubusercontent.com/9896315/54187734-6a62df00-44d8-11e9-9242-78b6fb805eda.png)
-![Screenshot_2019-03-12 Course - Arvid Marquardt](https://user-images.githubusercontent.com/9896315/54187735-6afb7580-44d8-11e9-99c0-6095b98f432e.png)
-![Screenshot_2019-04-06 Course Students - Prof Buddy Hermann](https://user-images.githubusercontent.com/9896315/55671336-f3d7b800-58b0-11e9-984e-8ae8f635bc42.png)
-![Screenshot_2019-04-06 Messages - Prof Buddy Hermann](https://user-images.githubusercontent.com/9896315/55671126-5aa7a200-58ae-11e9-82e8-60e532a08883.png)
-![Screenshot_2019-03-29 Grade - Deron Ruecker DDS](https://user-images.githubusercontent.com/9896315/55222646-a4511680-5236-11e9-89f0-606df40c1a6b.png)
-![Screenshot_2019-03-12 Manage Schools - Arvid Marquardt(3)](https://user-images.githubusercontent.com/9896315/54187739-6b940c00-44d8-11e9-83c0-fb06cbd3c316.png)
-![Screenshot_2019-03-12 Manage Schools - Arvid Marquardt](https://user-images.githubusercontent.com/9896315/54187740-6c2ca280-44d8-11e9-93b1-a998ac1cd585.png)
-![Screenshot_2019-03-12 Promote Section Students - Arvid Marquardt(1)](https://user-images.githubusercontent.com/9896315/54187741-6c2ca280-44d8-11e9-871a-51148b27c2b4.png)
-![Screenshot_2019-03-12 Students - Arvid Marquardt](https://user-images.githubusercontent.com/9896315/54187744-6cc53900-44d8-11e9-9ad4-c1acc58fe6a2.png)
